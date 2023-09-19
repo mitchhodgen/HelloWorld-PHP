@@ -9,4 +9,9 @@
   },
   "author": "anil_kumar",
   "license": "MIT"
+  
+    "require": {
+        "quickbooks/v3-php-sdk": ">=*"
+    }
+
 }
